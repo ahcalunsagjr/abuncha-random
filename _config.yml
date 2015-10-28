@@ -1,3 +1,7 @@
 markdown: redcarpet
 baseurl: /abuncha-random
 exlude: ['README.md']
+
+sass:
+  sass_dir: assets/css
+  style: :nested
