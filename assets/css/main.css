@@ -1,6 +1,7 @@
 
 	body {
 		margin: 0;
+		font-family: 'Open Sans', sans-serif;
 
 	}
 
@@ -28,9 +29,15 @@
 				font-size: 14px;
 				font-weight: 700;
 				text-transform: uppercase;
+				color: white;
+			}
+			a:hover {
+				color: white;
+				background: #B72;
 			}
 
 		h1 {
+			padding-top: 70px;
 			text-align: center;
 			font-size: 72px;
 			font-weight: 700;
