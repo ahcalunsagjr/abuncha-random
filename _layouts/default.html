@@ -10,14 +10,11 @@
 
 		<title>ABUNCHA-RANDOM</title>
 		
-		<header class="header">
-		{% include header.html %}
-		</header>
-
 	</head>
 	<body>
 
-		
+		{% include header.html %}
+
 		{{content}}
 
 		{% include footer.html %}
@@ -25,7 +22,7 @@
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
  	<script src="/assets/scripts/jquery.fittext.js"></script>
  	<script type="text/javascript">
- 		$("h1").fitText( 1.5 { minFontSize: '20px', maxFontSize: '40px' });
+ 		$(".random").fitText(1.5, { minFontSize: '60px', maxFontSize: '40px' });
  	</script>
 
 	</body>

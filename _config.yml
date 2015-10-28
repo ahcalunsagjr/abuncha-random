@@ -1,6 +1,8 @@
 markdown: redcarpet
 baseurl: /abuncha-random/
 exlude: ['README.md']
+title: Random Stuff
+description: Photography // Food // Blogging
 
 port: 6969
 
