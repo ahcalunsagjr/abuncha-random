@@ -1,5 +1,5 @@
 markdown: redcarpet
-baseurl: /abuncha-random/
+baseurl: ""
 exlude: ['README.md']
 title: Random Stuff
 description: Photography // Food // Blogging
