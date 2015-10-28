@@ -1,16 +1,16 @@
-
-	body {
+html, body {
 		margin: 0;
 		font-family: 'Open Sans', sans-serif;
 
 	}
 
 		.header {
-			height: 450px;
-			background: url("../img/cover.jpg") center center;
+			height: 500px;
+			background: url("../img/cover.jpg") no-repeat center center;
 			background-size: cover;
-
+			background-position: 0 -270px;
 		}
+
 
 		.logo {
 			float: left;
@@ -25,7 +25,7 @@
 
 			a {
 				display: inline-block;
-				margin-left: 20px
+				margin-left: 20px;
 				font-size: 14px;
 				font-weight: 700;
 				text-transform: uppercase;
