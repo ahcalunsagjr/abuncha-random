@@ -1,10 +1,14 @@
+html{
+	font-style: open-sans;
+}
 	body {
 		margin: 0;
+
 	}
 
 		.header {
 			height: 450px;
-			background: url("../img/cover.jpg") center center;
+			background: url("{{site.baseurl}}../img/cover.jpg") center center;
 			background-size: cover;
 
 		}
