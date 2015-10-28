@@ -1,6 +1,4 @@
-html{
-	font-style: open-sans;
-}
+
 	body {
 		margin: 0;
 
@@ -8,7 +6,7 @@ html{
 
 		.header {
 			height: 450px;
-			background: url("{{site.baseurl}}../img/cover.jpg") center center;
+			background: url("../img/cover.jpg") center center;
 			background-size: cover;
 
 		}
