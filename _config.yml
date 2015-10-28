@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /abuncha-random
+exlude: ['README.md']
