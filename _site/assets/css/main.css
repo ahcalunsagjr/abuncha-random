@@ -1,17 +1,15 @@
 body {
 	margin: 0;
 	font-family: 'Open Sans', sans-serif;
+}
 
-	}
-
+/* header .css */
 	.header {
 		height: 500px;
 		background: url("../img/cover.jpg") no-repeat center center;
 		background-size: cover;
 		background-position: 0 -270px;
 	}
-
-
 		.logo {
 			float: left;
 			margin: 10px 0 0 30px;
